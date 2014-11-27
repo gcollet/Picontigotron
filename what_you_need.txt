@@ -1,0 +1,11 @@
+Here is the list of what is needed to construct the picontigotron :
+
+ - A box
+ - A Raspberry Pi (version B in the original model)
+ - A Standard LCD screen 16x2     (http://www.adafruit.com/products/181)
+ - A Mini Thermal Receipt Printer (http://www.adafruit.com/product/597)
+ - 3 Push Buttons
+ - 1 I/O button
+ - 2 LEDs (red and green)
+ - 2 Resistances (10,000 and 300 ohms)
+ - some cables to connect everything
